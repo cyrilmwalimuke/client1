@@ -14,7 +14,7 @@ export default function Home() {
     <div>
       
     
-    <Banner/>
+    {/* <Banner/> */}
     
     <Extra/>
     <Gallery/>
